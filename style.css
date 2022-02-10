@@ -1,0 +1,246 @@
+  .one{
+  background-color: #ffffff;
+  background-image: -webkit-linear-gradient(0deg, #ffffff 80%, #ffcccc 20%);
+  min-height: 100px;
+  border-radius: 25px;
+}
+.navbar_home {
+  width: 80%;
+  background-color: #ffffff;
+  overflow: auto;
+}
+
+.navbar_home a {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 2vw;
+}
+
+
+
+.active_home {
+
+  margin-left: 30%;
+  margin-top: 20px;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+    background-color: #ff6666;
+ 
+}
+.active_home:hover{
+  font-size: 2.5vw;
+  background-color: #ff4d4d;
+  margin-left: 29%;
+}
+#btn_create{
+
+  padding: 12px 50px;
+  margin-left: 41%;
+  font-size: 1vw;
+  background-color: #4682B4;/*h*/
+  border-radius: 10px;
+  border-color: #ffffff;
+  color: #FDFEFE;
+}
+#btn_create:hover{
+  font-size: 1vw;
+  margin-left: 41%;/*h*/
+  background-color: #B0C4DE; /*h*/
+}
+#btn_create1{
+
+  padding: 12px 50px;
+  margin-left: 43%;
+  font-size: 1vw;
+  background-color: #4682B4;
+  border-radius: 10px;
+  border-color: #ffffff;
+  color: #FDFEFE;
+}
+#btn_create1:hover{
+  font-size: 1vw;
+  margin-left: 43%;
+  background-color: #B0C4DE;
+}
+#log_a_create{
+  color:  #cccccc;
+  margin-left: 37%;
+  padding-bottom: 13%;
+  font-size: 1vw;
+  display: block;
+}
+  #c_a_log{
+    height: 96vh;
+    min-width: 70%;
+    background-color: #FBFCFC;
+    margin-top: 0px;
+    margin-left:2%; 
+    margin-right: 2%;
+    border-radius: 50px;
+    
+  }
+
+
+@media screen and (max-width: 500px) {
+  .navbar_home a {
+    float: none;
+    display: block;
+  }
+}
+#inl_home{
+  display: inline-block;
+ 
+  margin-top: 0px;
+  width: 40%;
+}
+#inl1_home{
+  display: inline-block;
+
+  margin-top: 0px;
+  width: 30%;
+}
+.btn_home{
+
+  padding: 12px 60px;
+  margin-left: 43%;
+  font-size: 1.8vw;
+  background-color: #ff6666;
+  border-radius: 10px;
+  border-color: #ffffff;
+  text-decoration: none;
+  color: #ffffff;
+}
+.btn_home:hover{
+  font-size:2.5vw;
+  background-color: #b30000;
+}
+     
+#c_a{
+		height: 100%;
+    width: 90%;
+		background-color: #FBFCFC;
+		margin-left: 5%;
+		border-radius: 50px;
+    
+
+	}
+	#title{
+		padding-top: 10%;
+		padding-left: 39%
+
+	}
+
+#btn{
+
+  padding: 12px 50px;
+  margin-left: 41%;
+  font-size: 1vw;
+  background-color: #ff6666;
+  border-radius: 10px;
+  border-color: #ffffff;
+}
+  #c_a_account{
+    height: 630px;
+    min-width: 70%;
+    background-color: #FBFCFC;
+    margin-left:2%; 
+    margin-right: 2%;
+    border-radius: 50px;
+  }
+  #title{
+    padding-top: 10%;
+    padding-left: 40%;
+    font-size: 2.5vw;
+
+  }
+.acc_input {
+  width: 20%;
+  height: 10%;
+  padding: 12px 0px;
+  margin-left: 20%;
+  font-size: 1vw;
+  border-bottom-style: solid;
+  border-bottom-color:  #cccccc;
+  border-top-style: hidden;
+   border-right-style: hidden;
+  border-left-style: hidden;
+}
+.acc_email {
+  width: 60.5%;
+  height: 10%;
+  padding: 12px 0px;
+  margin-left: 20%;
+  font-size: 1vw;
+  border-bottom-style: solid;
+  border-bottom-color:  #cccccc;
+  border-top-style: hidden;
+   border-right-style: hidden;
+  border-left-style: hidden;
+}
+.acc_password {
+  width: 60.5%;
+  height: 10%;
+  padding: 12px 0px;
+  margin-left: 20%;
+  font-size: 1vw;
+  border-bottom-style: solid;
+  border-bottom-color:  #cccccc;
+  border-top-style: hidden;
+   border-right-style: hidden;
+  border-left-style: hidden;
+}
+.acc_user {
+  margin-left: 40%;
+  font-size: 2vw;
+
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+.h_font:hover{
+  font-size: 2.5;
+}
+#p_img{
+  margin-left: 2%;
+  display: inline-block;
+  width: 15%;
+  height: 20%;
+  margin-top: 1px;
+  border-radius: 20px;
+}
+#im_div{
+  display: inline;
+}
+#doc_name{
+  display: inline-block;
+  /*font-family: cursive;*/
+  font-size: 2vw;
+  font-weight: bold; 
+}
+.logout_b{
+    text-decoration: none;
+  padding: 12px 50px;
+  position: relative;
+  margin-left: 52%;
+  margin-top: 2%;
+  font-size: 2vw;
+  background-color: #ff6666;
+  border-radius: 10px;
+  border-color: #ffffff;
+  color: white;
+}
+.logout_b:hover{
+    font-size: 2.5vw;
+  color:  #ffffff;
+  margin-left: 51%;
+}
