@@ -92,8 +92,8 @@ class _AudioRecognizeState extends State<AudioRecognize> {
           "ما اسم العلاج؟",
           "الدواء.",
           "العلاج.",
-          "اش اسم الدواء؟",
-          "اش اسم العلاج؟",
+          "ايش اسم الدواء؟",
+          "ايش اسم العلاج؟",
           "test"];
         var dose = <String>[
           "كم حبة اخذ؟",
@@ -101,7 +101,7 @@ class _AudioRecognizeState extends State<AudioRecognize> {
           "كم مل اخذ؟",
           "الجرعة؟",
           "ما الجرعة؟",
-          "اش الجرعة.",
+          "ايش الجرعة.",
           "كم الجرعة.",
           "ما الجرعة اليوم؟"];
         var med_time = <String>[
@@ -112,7 +112,7 @@ class _AudioRecognizeState extends State<AudioRecognize> {
         var precaution = <String>[
           "ما الاحتياطات الواجبة؟",
           "ما الاحتياطات الواجبه؟",
-          "اش لازم اخذ حذري منه؟",
+          "ايش لازم اخذ حذري منه؟",
           "حذر.",
           "موانع.",
           "مانع.",
@@ -124,8 +124,8 @@ class _AudioRecognizeState extends State<AudioRecognize> {
           "موعد.",
           "موعدي.",
           "موعدى.",
-          "الساعة كام موعدي؟",
-          "الساعة كام موعدى؟",
+          "الساعة كم موعدي؟",
+          "الساعة كم موعدى؟",
           "متى ازور الدكتور؟",
           "متى ازور الطبيب؟",
           "متى ازور المستشفى؟",
