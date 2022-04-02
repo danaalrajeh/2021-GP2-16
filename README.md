@@ -1,4 +1,4 @@
-# 2021-GP2-16
+# 2021-GP2-16- Maak
 This is our graduation project, supervised by Dr. Khaoula Hamdi. 
 
 which consist of 2 views: 
