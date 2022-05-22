@@ -1,0 +1,51 @@
+.h_font:hover{
+  font-size: 2.5;
+}
+#p_img{
+  margin-left: 2%;
+  display: inline-block;
+  width: 15%;
+  height: 20%;
+  margin-top: 1px;
+  border-radius: 20px;
+}
+#im_div{
+  display: inline;
+}
+#doc_name{
+  display: inline-block;
+  font-size: 2vw;
+  font-weight: bold; 
+}
+.logout_b{
+    text-decoration: none;
+    /*font-family: cursive;*/
+  padding: 12px 50px;
+  position: relative;
+margin-left: 2%;
+  margin-top: 2%;
+  font-size: 2vw;
+  background-color: #191970;
+  border-radius: 10px;
+  border-color: #ffffff;
+  color: white;
+}
+.logout_b:hover{
+    font-size: 2.5vw;
+    color:  #ffffff;
+
+}
+.home_b{
+  text-decoration: none;
+  /*font-family: cursive;*/
+  font-size: 2vw;
+  margin-left: 42%;
+  color: #778899;
+}
+.home_b:hover{
+  font-size: 2.5vw;
+  color: white;
+  background-color: #778899;
+   padding: 8px 40px;
+   border-radius: 10px;
+}
