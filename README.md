@@ -27,10 +27,13 @@ To open this project:
     4- import the database in php my admin
     
     5- run the app
+    
+    6- or you can easily go throuth " maak.host " to see this website
 
 
 
 The patient is mobile based using: Flutter(dart). which we push it on the main branch. 
+Using Google API's: Text-to-Speach, Speach-to-text, Dialogflow and google cloud function
 
 To open this project:
 
@@ -40,6 +43,6 @@ To open this project:
     
     3- open the project on android studio or VSCode
     
-    4- in the connection.dart file change the IP adress with your computer IP (line 12 and 69)
+    4- in the app_constants.dart file change the IP adress with your computer IP (line 13) to receive emails 
     
-    5- run the app
+    5- open your emulator then run the app
