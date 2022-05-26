@@ -43,6 +43,6 @@ To open this project:
     
     3- open the project on android studio or VSCode
     
-    4- in the app_constants.dart file change the IP adress with your computer IP (line 13) to receive emails 
+    4- there is some missing part in code (IP adresses, database cridentials and google service keys) to avoid security problems. please ask for them if needed
     
     5- open your emulator then run the app
