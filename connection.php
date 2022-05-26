@@ -3,7 +3,7 @@
 $host = "maak.host";
 $db = "maak0103_clinic";
 $username = "maak0103_root";
-$password = "Gvg89rmaEG";
+$password = "";
 
 try {
 
