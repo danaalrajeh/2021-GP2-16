@@ -1,8 +1,8 @@
 <?php
 
-$host = "maak.host";
-$db = "maak0103_clinic";
-$username = "maak0103_root";
+$host = "";
+$db = "";
+$username = "";
 $password = "";
 
 try {
